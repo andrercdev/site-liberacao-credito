@@ -1,0 +1,18 @@
+
+body {
+  background: linear-gradient(to bottom right, #0d6efd, #6610f2);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.custom-card {
+  max-width: 500px;
+  width: 100%;
+  padding: 2rem;
+  background: white;
+  border-radius: 1rem;
+  color: black;
+  box-shadow: 0 0 25px rgba(0,0,0,0.1);
+}
